@@ -2,7 +2,8 @@
 
 A browser extension that automatically manages your media playback when switching between tabs and applications.
 
-![Screenshot 2025-04-20 at 8 40 07 PM](https://github.com/user-attachments/assets/42d4d183-b0bb-491d-b971-c76e88199bbd)
+![Screenshot 2025-04-20 at 9 45 45 PM](https://github.com/user-attachments/assets/d5ee0072-60e0-4f6e-9bd7-07885e27f879)
+
 
 ## ✨ Features
 
