@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/1b29ed08-b619-44d3-b378-5bd48df210c2
 
 ### 1. Get the Code
 ```bash
-git clone https://github.com/ssonthal/media-pauser.git
+git clone https://github.com/ssonthal/media-pauser-chrome-extension.git
 ```
 
 ### 2. Install in Chrome
