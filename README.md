@@ -27,7 +27,15 @@ https://github.com/user-attachments/assets/ff772c9b-68b5-4b55-ba88-6adeab8c1ce9
 Use Case #2 - Movies/Sports with work
 
 
+https://github.com/user-attachments/assets/5247a99f-fac5-4c63-8430-f9935555e63e
 
-https://github.com/user-attachments/assets/b1e9494b-e1fc-4140-867a-5af5e23c6cea
 
 
+## Installation
+
+### 1. Download the source
+
+Clone the repository or download the files:
+
+```bash
+[git clone https://github.com/ssonthal/video-pauser.git](https://github.com/ssonthal/VideoPauser-ChromeExtension.git)
