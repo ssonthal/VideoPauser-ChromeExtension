@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 12px;
+        width: 250px;
+        background-color: #f7f7f7;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h3 {
+        background-color: #f85747;
+        color: white;
+        margin: 0;
+        padding: 10px;
+        text-align: center;
+      }
+      label {
+        display: block;
+        margin: 10px 0;
+      }
+      input[type="checkbox"] {
+        float: left;
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>Video Pauser</h3>
+    <label>
+      <input type="checkbox" id="enabledToggle" />
+      Enable for this site
+    </label>
+    <label id="resumeLabel" style="display: none;">
+      <input type="checkbox" id="resumeToggle" />
+      Auto-resume on focus
+    </label>
+
+    <p id="status"></p>
+    <script src="popup.js"></script>
+  </body>
+</html>
