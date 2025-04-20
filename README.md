@@ -39,3 +39,16 @@ Clone the repository or download the files:
 
 ```bash
 https://github.com/ssonthal/media-pauser.git
+```
+
+### 2. Load the extension in Chrome
+Open Chrome and go to chrome://extensions/.
+
+Enable Developer mode by toggling the switch in the top-right corner.
+
+Click on the Load unpacked button.
+
+Select the folder where you downloaded or cloned the project files.
+
+### 3. Start using the extension
+Once the extension is loaded, you’ll see the Video Pauser icon in your Chrome toolbar. Click on it to toggle the functionality for the current website.
