@@ -1,56 +1,41 @@
-# Media Pauser Chrome Extension
+# 🎬 Media Pauser Chrome Extension
 
-**Video Pauser** is a Chrome extension that automatically pauses multimedia content (videos and audio) on web pages when the browser window loses focus. The extension also provides an option to automatically resume media playback when the tab regains focus, improving the browsing experience for users who frequently switch between tabs and apps.
+A browser extension that automatically manages your media playback when switching between tabs and applications.
 
-![Screenshot 2025-04-20 at 8 40 07 PM](https://github.com/user-attachments/assets/42d4d183-b0bb-491d-b971-c76e88199bbd)
+![Screenshot 2025-04-20 at 8 40 07 PM](https://github.com/user-attachments/assets/42d4d183-b0bb-491d-b971-c76e88199bbd)
 
+## ✨ Features
 
-## Features
+- **🔇 Auto Pause** - Automatically pauses videos and audio when you switch away from the tab
+- **▶️ Auto Resume** - Optionally resumes playback when you return to the tab
+- **🔒 Per-Site Control** - Enable or disable the extension for specific websites
+- **⚙️ Customization** - Configure auto-resume behavior on a site-by-site basis
 
-- **Auto Pause on Blur**: Automatically pauses videos or audio when the Chrome tab loses focus.
-- **Auto Resume on Focus**: Optionally resumes playback when the tab regains focus.
-- **Per-Site Settings**: Enable or disable the extension on specific websites with a simple toggle.
-- **User Customization**: Choose whether to auto-resume videos on specific sites from the extension's popup.
+## 🎯 Use Cases
 
-
-## Demo Video
-
-Use Case #1 - Coding Tutorials
-
-Without Extension: If we wish to pause the YT video and experiment something on the go, need to pause manually. It's a frequent and frustrating effort. 
-
-With Extension: The video will auto play/pause when the chrome browser loses focus. 
+### Coding Tutorials
+**Problem:** Having to manually pause YouTube videos when switching to try out code examples  
+**Solution:** Videos automatically pause when you switch to your code editor and resume when you return
 
 https://github.com/user-attachments/assets/ff772c9b-68b5-4b55-ba88-6adeab8c1ce9
 
-
-Use Case #2 - Movies/Sports with work
-
-
+### Multitasking with Movies/Sports
+Balance entertainment and productivity without missing content:
 
 https://github.com/user-attachments/assets/1b29ed08-b619-44d3-b378-5bd48df210c2
 
+## 📥 Installation
 
-
-
-## Installation
-
-### 1. Download the source
-
-Clone the repository or download the files:
-
+### 1. Get the Code
 ```bash
-https://github.com/ssonthal/media-pauser.git
+git clone https://github.com/ssonthal/media-pauser.git
 ```
 
-### 2. Load the extension in Chrome
-Open Chrome and go to chrome://extensions/.
+### 2. Install in Chrome
+1. Open `chrome://extensions/`
+2. Toggle on **Developer mode** in the top-right corner
+3. Click **Load unpacked**
+4. Select the Media Pauser folder
 
-Enable Developer mode by toggling the switch in the top-right corner.
-
-Click on the Load unpacked button.
-
-Select the folder where you downloaded or cloned the project files.
-
-### 3. Start using the extension
-Once the extension is loaded, you’ll see the Video Pauser icon in your Chrome toolbar. Click on it to toggle the functionality for the current website.
+### 3. Ready to Use
+The Media Pauser icon will appear in your toolbar. Click it to configure settings for your current website.
