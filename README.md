@@ -15,9 +15,19 @@
 
 ## Demo Video
 
+Use Case #1 - Coding Tutorials
+
 Without Extension: If we wish to pause the YT video and experiment something on the go, need to pause manually. It's a frequent and frustrating effort. 
 
 With Extension: The video will auto play/pause when the chrome browser loses focus. 
 
 https://github.com/user-attachments/assets/ff772c9b-68b5-4b55-ba88-6adeab8c1ce9
+
+
+Use Case #2 - Movies/Sports with work
+
+
+
+https://github.com/user-attachments/assets/b1e9494b-e1fc-4140-867a-5af5e23c6cea
+
 
