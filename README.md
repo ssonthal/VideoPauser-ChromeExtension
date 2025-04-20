@@ -44,7 +44,6 @@ The Media Pauser icon will appear in your toolbar. Click it to configure setting
 ## 📁 Project Structure
 
 * **manifest.json** - Extension configuration, permissions, and metadata
-* **background.js** - Manages background processes and site preference storage
 * **popup.html** - User interface for controlling the extension
 * **popup.js** - Handles user interactions and applies settings
 * **content.js** - Core functionality for detecting focus changes and controlling media playback
