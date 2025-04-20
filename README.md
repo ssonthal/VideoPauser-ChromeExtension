@@ -38,4 +38,4 @@ https://github.com/user-attachments/assets/5247a99f-fac5-4c63-8430-f9935555e63e
 Clone the repository or download the files:
 
 ```bash
-[git clone https://github.com/ssonthal/video-pauser.git](https://github.com/ssonthal/VideoPauser-ChromeExtension.git)
+https://github.com/ssonthal/media-pauser.git
