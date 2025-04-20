@@ -39,3 +39,30 @@ git clone https://github.com/ssonthal/media-pauser.git
 
 ### 3. Ready to Use
 The Media Pauser icon will appear in your toolbar. Click it to configure settings for your current website.
+
+## 📁 Project Structure
+
+* **manifest.json** - Extension configuration, permissions, and metadata
+* **background.js** - Manages background processes and site preference storage
+* **popup.html** - User interface for controlling the extension
+* **popup.js** - Handles user interactions and applies settings
+* **content.js** - Core functionality for detecting focus changes and controlling media playback
+
+## 🤝 Contributing
+
+We welcome contributions to make Media Pauser even better!
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature-name`
+3. Make your changes and commit: `git commit -am 'Add new feature'`
+4. Push your branch: `git push origin feature-name`
+5. Submit a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👏 Acknowledgements
+
+* **Chrome Extensions Documentation** - [Link](https://developer.chrome.com/docs/extensions/develop)
+* **YouTube and other media sites** - For providing the media experience that inspired this extension
