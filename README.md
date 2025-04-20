@@ -11,3 +11,13 @@
 - **Auto Resume on Focus**: Optionally resumes playback when the tab regains focus.
 - **Per-Site Settings**: Enable or disable the extension on specific websites with a simple toggle.
 - **User Customization**: Choose whether to auto-resume videos on specific sites from the extension's popup.
+
+
+## Demo Video
+
+Without Extension: If we wish to pause the YT video and experiment something on the go, need to pause manually. It's a frequent and frustrating effort. 
+
+With Extension: The video will auto play/pause when the chrome browser loses focus. 
+
+https://github.com/user-attachments/assets/ff772c9b-68b5-4b55-ba88-6adeab8c1ce9
+
