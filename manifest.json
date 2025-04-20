@@ -1,10 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "Pause Media on Blur",
-  "version": "1.1",
+  "name": "Media Pauser",
+  "version": "1",
   "description": "Pause media when Chrome loses focus, on user-selected sites.",
-  "permissions": ["scripting", "activeTab", "storage"],
-  "host_permissions": ["<all_urls>"],
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
   "background": {
     "service_worker": "background.js"
   },
@@ -18,10 +24,13 @@
   },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"],
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
       "run_at": "document_idle"
     }
   ]
 }
-
